@@ -1,0 +1,5 @@
+data/mysql/db
+__pycache__
+*.pyc
+*.pyo
+*.swp
